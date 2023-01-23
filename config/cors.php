@@ -31,4 +31,12 @@ return [
 
     'supports_credentials' => false,
 
+    'supports_credentials' => true,
+
+    'paths' => [
+        'login',
+        'logout',
+      ],
+
+
 ];
